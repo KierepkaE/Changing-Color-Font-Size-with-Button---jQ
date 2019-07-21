@@ -1,5 +1,19 @@
-# Changing-Color-Font-Size-with-Button---jQ
-Changing background color, size of the text and moving the text - with jQuery
+
+# text and background manipulation 
+
+Change background color, position and size of the text using buttons.
+
+## tech 
+
+- `HTML`
+- `CSS`
+- `jQuery`
+- `JavaScript`
 
 
-https://kierepkae.github.io/Changing-Color-Font-Size-with-Button---jQ/.
+## link
+
+
+
+
+
