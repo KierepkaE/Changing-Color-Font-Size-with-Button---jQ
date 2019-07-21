@@ -13,6 +13,8 @@ Change background color, position and size of the text using buttons.
 
 ## link
 
+[see result here](https://kierepkae.github.io/animation-jQuery/)
+
 
 
 
